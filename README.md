@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @favour2025
-- 👀 I’m interested in fronted 
+- 👀 I’m interested in frontend 
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
